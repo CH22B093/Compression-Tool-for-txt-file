@@ -45,6 +45,11 @@ Enter choice [1-3]:
 ```
 
 ---
+## Database Configuration
+
+The connection settings are defined at the top of `acad_insti_app.py`:
+> Make sure to change the DB config settings before running the code.
+---
 
 ## Features
 
@@ -110,7 +115,7 @@ Enter Classroom: cs25
 ---
 
 
-### Task 2 — Enroll Student (Prerequisites Not Passed)
+### Task 2 — Enroll Student
 
 ```
 Enter choice [1-3]: 2
@@ -143,9 +148,3 @@ Course: Algorithms
 ```
 
 ---
-
-
-## Database Configuration
-
-The connection settings are defined at the top of `acad_insti_app.py`:
-> Make sure to change the DB config settings before running the code.
